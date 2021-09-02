@@ -1,8 +1,11 @@
 
 bright copper kettles and and warm woolen mittens.
+<<<<<<< HEAD
 
 A few more changes......
 
 edit from the browser
 
 Making Changes in the branch. Deleting and whiskers on kittens
+=======
+>>>>>>> parent of 6c74189 (Update FavoriteThings.txt)
